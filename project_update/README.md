@@ -11,5 +11,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.09.519842v2
 
 Some structures I have made:
 
+A 50 amino acid unconstrained monomer from RFdiffusion->ProteinMPNN ->AlphaFold
 ![alt text](https://github.com/andrew-pike-th/CHEM101.6/blob/main/project_update/50AA_free.png)
+
 ![alt text](http://url/to/img.png)
