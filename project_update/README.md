@@ -14,4 +14,5 @@ Some structures I have made:
 A 50 amino acid unconstrained monomer from RFdiffusion->ProteinMPNN ->AlphaFold
 ![alt text](https://github.com/andrew-pike-th/CHEM101.6/blob/main/project_update/50AA_free.png)
 
-![alt text](http://url/to/img.png)
+One with 100 amino acids:
+![alt text]([http://url/to/img.png](https://github.com/andrew-pike-th/CHEM101.6/blob/main/project_update/100AA_free.png))
